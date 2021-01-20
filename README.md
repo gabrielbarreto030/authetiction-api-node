@@ -11,7 +11,8 @@ send as json:
 email,password
 
 #/register
-send as json:
+
+send as json: 
 name,email,password
 
 .env- environment variables can be changed as you like
